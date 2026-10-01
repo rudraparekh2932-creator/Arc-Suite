@@ -1,0 +1,6 @@
+{
+  "name": "Arc 360",
+  "description": "Unified Cloud Workspace with Docs, Sheets, Slides, PDF Editor, Adobe Creative Studio & Arc Mail (Outlook Alternative) with encrypted hardware licensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
